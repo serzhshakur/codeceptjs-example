@@ -9,7 +9,6 @@ exports.config = {
   output: './output',
   helpers: {
     Puppeteer: {
-      url: 'https://bilderlings.dev/',
       show: true,
       windowSize: '1200x900'
     },
