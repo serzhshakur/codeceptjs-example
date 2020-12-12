@@ -13,9 +13,13 @@
     "codeceptjs": "^3.0.2",
     "puppeteer": "^5.5.0"
   },
+  "resolutions": {
+    "@pollyjs/adapter-puppeteer": "^5.1.0",
+    "@pollyjs/core": "^5.1.0"
+  },
   "devDependencies": {
     "@codeceptjs/mock-request": "^0.3.0",
-    "@pollyjs/adapter-puppeteer": "^5.0.0",
-    "@pollyjs/core": "^5.0.0"
+    "@pollyjs/adapter-puppeteer": "^5.1.0",
+    "@pollyjs/core": "^5.1.0"
   }
 }
